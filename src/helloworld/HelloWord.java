@@ -8,7 +8,7 @@ public class HelloWord { // 깃 에게 알려주기 위한 정보
  
 		System.out.println("Earth's end Dancehall");
 		System.out.println("Hello end Dancehall");
-			
+		System.out.println("orign)
 	}
 
 }
